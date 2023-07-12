@@ -140,3 +140,11 @@ en este caso nos mostrara la informacion de las tareas que este asociado a ese t
 **BASE DE DATOS DE TAREAS**
 
 [![DB-TAREAS.jpg](https://i.postimg.cc/76BS04hW/DB-TAREAS.jpg)](https://postimg.cc/gXZwbfvV)
+
+
+# POSTMAN
+
+[![POST-LOG.png](https://i.postimg.cc/ZRHLy9Mh/POST-LOG.png)](https://postimg.cc/gXwhC0pM)
+
+
+
