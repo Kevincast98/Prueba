@@ -147,4 +147,12 @@ en este caso nos mostrara la informacion de las tareas que este asociado a ese t
 [![POST-LOG.png](https://i.postimg.cc/ZRHLy9Mh/POST-LOG.png)](https://postimg.cc/gXwhC0pM)
 
 
+**GET PERSONAS**
+[![GET-PERSONA.jpg](https://i.postimg.cc/MpZjCt60/GET-PERSONA.jpg)](https://postimg.cc/6yS3RrGT)
+
+**PUT TAREA**
+
+[![PUT-TAREA.jpg](https://i.postimg.cc/sgnZsSxk/PUT-TAREA.jpg)](https://postimg.cc/G4ypj4kK)
+
+
 
