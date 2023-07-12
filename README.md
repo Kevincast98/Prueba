@@ -132,6 +132,8 @@ en este caso nos mostrara la informacion de las tareas que este asociado a ese t
 
 # BASE DE DATOS
 
+[![logo-postgresql.png](https://i.postimg.cc/d0VkZPqf/logo-postgresql.png)](https://postimg.cc/k2LXLHRN)
+
 **BASE DE DATOS DE PERSONA**
 [![DB-PERSONA.jpg](https://i.postimg.cc/cLJdCNYz/DB-PERSONA.jpg)](https://postimg.cc/0bhTXFVG)
 
